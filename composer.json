@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/yd521cdsf5re1serkcjbf4r50rew54cxc12",
+    "type": "magento-module",
+    "license": "MTL",
+    "homepage": "",
+    "description": "Ship packages using the Whiplash Fulfillment Network, painlessly and automatically with the Magento Extension.",
+    "authors": [
+    {
+        "name": "Whiplash",
+        "email": "whiplash@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

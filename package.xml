@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>yd521cdsf5re1serkcjbf4r50rew54cxc12</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/mit-license.php">MTL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Ship packages using the Whiplash Fulfillment Network, painlessly and automatically with the Magento Extension.</summary>
+    <description>Ship packages using the Whiplash Fulfillment Network, painlessly and automatically with the Magento Extension.</description>
+    <notes>Whiplash Fufillment&#xD;
+</notes>
+    <authors><author><name>Whiplash</name><user>Whiplash</user><email>whiplash@gmail.com</email></author></authors>
+    <date>2016-03-23</date>
+    <time>02:08:18</time>
+    <contents><target name="magecommunity"><dir name="Whiplash"><dir name="Fulfillment"><dir name="Helper"><file name="Data.php" hash="b7f252699701bd3eee38b208c1be9689"/></dir><dir name="Model"><dir name="Adminhtml"><dir name="System"><dir name="Config"><dir name="Source"><file name="Apiversion.php" hash="7ec9961a0fe148fd4e30802da3d8c354"/></dir></dir></dir></dir><file name="Observer.php" hash="97b84f00820f346d2af8e86d8092d84f"/></dir><dir name="etc"><file name="adminhtml.xml" hash="997969b7b8dee067918cf652d804607d"/><file name="config.xml" hash="f0cfaa405dd89cbd8701a16b4a9e33b0"/><file name="system.xml" hash="563858f86eaa4459e16917d0fd8e6043"/></dir><dir name="lib"><file name="WhiplashApi.php" hash="66d952fb5735e1ca5e74c8803fcc7597"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Whiplash_Fulfillment.xml" hash="3b195f95342271be87bbf2f5fdc2265b"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>7.0.0</max></php></required></dependencies>
+</package>
